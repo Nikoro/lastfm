@@ -1,0 +1,270 @@
+{
+  "results": {
+    "opensearch:Query": {
+      "#text": "",
+      "role": "request",
+      "searchTerms": "a",
+      "startPage": "1"
+    },
+    "opensearch:totalResults": "97126884",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "10",
+    "albummatches": {
+      "album": [
+        {
+          "name": "AM",
+          "artist": "Arctic Monkeys",
+          "url": "https://www.last.fm/music/Arctic+Monkeys/AM",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f579e414e20f40969185e41182d72472.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f579e414e20f40969185e41182d72472.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f579e414e20f40969185e41182d72472.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f579e414e20f40969185e41182d72472.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "bf584cf2-dc33-433e-b8b2-b85578822726"
+        },
+        {
+          "name": "An Awesome Wave",
+          "artist": "alt-J",
+          "url": "https://www.last.fm/music/alt-J/An+Awesome+Wave",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a701bd388c95415ac140405686cdd0af.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a701bd388c95415ac140405686cdd0af.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a701bd388c95415ac140405686cdd0af.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a701bd388c95415ac140405686cdd0af.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "9421c67a-9e28-4e75-bc20-c1424c7510ea"
+        },
+        {
+          "name": "After Hours",
+          "artist": "The Weeknd",
+          "url": "https://www.last.fm/music/The+Weeknd/After+Hours",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": ""
+        },
+        {
+          "name": "Absolution",
+          "artist": "Muse",
+          "url": "https://www.last.fm/music/Muse/Absolution",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09a7dd691dba9ed475f1b5c1bef0074a.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09a7dd691dba9ed475f1b5c1bef0074a.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09a7dd691dba9ed475f1b5c1bef0074a.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09a7dd691dba9ed475f1b5c1bef0074a.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "1dad9b13-1f02-33f6-815e-7fb2e6af17ea"
+        },
+        {
+          "name": "A Rush of Blood to the Head",
+          "artist": "Coldplay",
+          "url": "https://www.last.fm/music/Coldplay/A+Rush+of+Blood+to+the+Head",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d3d6d2b41544f42b8f750b6abdbd180.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d3d6d2b41544f42b8f750b6abdbd180.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d3d6d2b41544f42b8f750b6abdbd180.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d3d6d2b41544f42b8f750b6abdbd180.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "219b202d-290e-3960-b626-bf852a63bc50"
+        },
+        {
+          "name": "A Fever You Can't Sweat Out",
+          "artist": "Panic! at the Disco",
+          "url": "https://www.last.fm/music/Panic%21+at+the+Disco/A+Fever+You+Can%27t+Sweat+Out",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/249a926fbef4487eb39bbb93d4a0618d.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/249a926fbef4487eb39bbb93d4a0618d.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/249a926fbef4487eb39bbb93d4a0618d.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/249a926fbef4487eb39bbb93d4a0618d.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "b3fc7601-2523-4b6d-bfdd-76d22bfeebda"
+        },
+        {
+          "name": "ARTPOP",
+          "artist": "Lady Gaga",
+          "url": "https://www.last.fm/music/Lady+Gaga/ARTPOP",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15ef1c034e1f6a71d0d69d3b6f5c534f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15ef1c034e1f6a71d0d69d3b6f5c534f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15ef1c034e1f6a71d0d69d3b6f5c534f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15ef1c034e1f6a71d0d69d3b6f5c534f.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "a7d800c7-ba01-4631-a6e2-7bb5caaf8e58"
+        },
+        {
+          "name": "when we all fall asleep, where do we go?",
+          "artist": "Billie Eilish",
+          "url": "https://www.last.fm/music/Billie+Eilish/when+we+all+fall+asleep,+where+do+we+go%3F",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e293a236bd4c60f12b8cf9dab8c0ac9f.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e293a236bd4c60f12b8cf9dab8c0ac9f.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e293a236bd4c60f12b8cf9dab8c0ac9f.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e293a236bd4c60f12b8cf9dab8c0ac9f.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": ""
+        },
+        {
+          "name": "Random Access Memories",
+          "artist": "Daft Punk",
+          "url": "https://www.last.fm/music/Daft+Punk/Random+Access+Memories",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11dd7e48a1f042c688bf54985f01d088.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11dd7e48a1f042c688bf54985f01d088.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11dd7e48a1f042c688bf54985f01d088.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11dd7e48a1f042c688bf54985f01d088.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "36e2aede-346d-4931-8565-78d810d167c7"
+        },
+        {
+          "name": "Kid A",
+          "artist": "Radiohead",
+          "url": "https://www.last.fm/music/Radiohead/Kid+A",
+          "image": [
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2ed343318c844d19cd897ec67fad11c4.png",
+              "size": "small"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2ed343318c844d19cd897ec67fad11c4.png",
+              "size": "medium"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2ed343318c844d19cd897ec67fad11c4.png",
+              "size": "large"
+            },
+            {
+              "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2ed343318c844d19cd897ec67fad11c4.png",
+              "size": "extralarge"
+            }
+          ],
+          "streamable": "0",
+          "mbid": "b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5"
+        }
+      ]
+    },
+    "@attr": {
+      "for": "a"
+    }
+  }
+}
